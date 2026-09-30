@@ -229,9 +229,10 @@ See [Configure Gemini](#3-configure-gemini-optional) above. The `.env` file belo
 
 ## Live Demo -
 
-Frontend = https://analytica-ai-two.vercel.app/
+Frontend = https://analytica-ai-two.vercel.app
 
 Backend = https://analytica-ai-tit6.onrender.com
+
 ---
 
 ## Current Version
