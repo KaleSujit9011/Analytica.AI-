@@ -229,7 +229,7 @@ See [Configure Gemini](#3-configure-gemini-optional) above. The `.env` file belo
 
 ## Live Demo -
 
-https://insightflow-ai.vercel.app
+https://analytica-ai-two.vercel.app/
 
 ---
 
