@@ -1,0 +1,18 @@
+Order ID,Region,Product,Units Sold,Unit Price,Customer Rating
+ORD-1001,North,Notebook,12,4.50,4.2
+ORD-1002,South,Pen Set,8,7.25,4.0
+ORD-1003,East,Desk Lamp,3,24.99,4.5
+ORD-1004,West,Notebook,15,4.50,4.1
+ORD-1005,North,Water Bottle,6,12.00,4.7
+ORD-1006,South,Desk Lamp,2,24.99,3.9
+ORD-1007,East,Pen Set,11,7.25,4.3
+ORD-1008,West,Water Bottle,5,12.00,4.4
+ORD-1009,North,Desk Lamp,4,24.99,4.8
+ORD-1010,South,Notebook,9,4.50,3.8
+ORD-1011,East,Water Bottle,7,12.00,4.6
+ORD-1012,West,Pen Set,10,7.25,4.1
+ORD-1013,,Notebook,6,4.50,4.0
+ORD-1014,North,Pen Set,,7.25,4.3
+ORD-1015,South,Water Bottle,5,999.00,4.2
+ORD-1016,East,Desk Lamp,3,24.99,
+ORD-1001,North,Notebook,12,4.50,4.2
